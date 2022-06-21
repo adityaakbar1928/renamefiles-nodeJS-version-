@@ -14,4 +14,4 @@ well use my tools here, it can rename thousand of your files extension, easy to 
 # Want more easiest way?
 Check my other repositories, i create the same tools with python, it have .exe version, so all you need to do is just put that exe on the same folder with your files, and open the damn exe, and follow the instructions
 
-# Made by Love
+# Made with Love by Aditya Akbar
