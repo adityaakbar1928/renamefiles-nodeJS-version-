@@ -1,0 +1,21 @@
+{
+  "name": "renamefiles",
+  "version": "1.0.0",
+  "description": "Rename your files extension to whatever you want",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "renamefiles"
+  ],
+  "author": "Aditya Akbar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "node-cmd": "^5.0.0",
+    "prompt": "^1.3.0",
+    "readline": "^1.3.0"
+  }
+}
